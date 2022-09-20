@@ -10,6 +10,14 @@ Running the current state.
 go run main/conspire.go servews
 ```
 
+### Install a Static HTTP File Server
+
+(If you haven't already.)
+
+```shell
+npm install -g live-server
+```
+
 ### Start HTTP Server
 
 The 'client' is script on the `index.html` page that the server serves up.
